@@ -1,0 +1,12 @@
+Account Number: 9999
+Account Type: CheckingAccount
+Balance: 
+Credit Limit: 8000000.0
+Overdraft Fee: 8000.0
+-----
+Account Number: 9999
+Account Type: CheckingAccount
+Balance: 
+Credit Limit: 8000000.0
+Overdraft Fee: 8000.0
+-----

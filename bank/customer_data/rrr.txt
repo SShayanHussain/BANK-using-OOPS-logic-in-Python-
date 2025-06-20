@@ -1,0 +1,6 @@
+Account Number: 99
+Account Type: CheckingAccount
+Balance: 0
+Credit Limit: 999.0
+Overdraft Fee: 9.0
+-----

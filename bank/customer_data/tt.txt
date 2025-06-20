@@ -1,0 +1,6 @@
+Account Number: 00
+Account Type: CheckingAccount
+Balance: 
+Credit Limit: 90000000.0
+Overdraft Fee: 90000.0
+-----
